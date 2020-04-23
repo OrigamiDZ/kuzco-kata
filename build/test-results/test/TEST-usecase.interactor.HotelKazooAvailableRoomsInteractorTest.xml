@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="usecase.interactor.HotelKazooAvailableRoomsInteractorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-23T12:31:22" hostname="AMAC02ZG3J3LVDQ" time="0.087">
+  <properties/>
+  <testcase name="getAvailableRooms - two rooms available" classname="usecase.interactor.HotelKazooAvailableRoomsInteractorTest" time="0.085"/>
+  <testcase name="getAvailableRooms - one room avalaible" classname="usecase.interactor.HotelKazooAvailableRoomsInteractorTest" time="0.0"/>
+  <testcase name="getAvailableRooms - all rooms available" classname="usecase.interactor.HotelKazooAvailableRoomsInteractorTest" time="0.001"/>
+  <testcase name="getAvailableRooms - no rooms avalaible" classname="usecase.interactor.HotelKazooAvailableRoomsInteractorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

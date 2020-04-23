@@ -1,7 +1,5 @@
 package domain
 
-import java.math.BigDecimal
-
 data class JsonRoomStateResponse(
     val chambers: List<Room>
 ) {
@@ -25,8 +23,8 @@ data class JsonRoomStateResponse(
         )
 
         data class Reservation(
-            val checkInDate: BigDecimal,
-            val checkOutDate: BigDecimal,
+            val checkInDate: Long,
+            val checkOutDate: Long,
             val reservationName: String
         )
     }
